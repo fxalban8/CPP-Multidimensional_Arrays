@@ -31,7 +31,7 @@ int main(){
 			cout<<"Elemento "<<i<<"-"<<j<<" es "<<sArray[i][j]<<endl;
 		}
 		}
-	
+	cin.get();	
 
 	return 0;
 }
